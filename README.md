@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="assets/banner.jpg" width="100%">
+<img src="assets/banner.jpg" width="100%">
 
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vallala Saikumar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vallala Saikumar
 
 ### 🚀 Design Verification Engineer | VLSI | SystemVerilog | UVM | ASIC Verification
 
@@ -62,7 +62,7 @@ Speciality  :
 
 <td>
 
-<img src="assets/coding-animation.gif" width="350">
+<img src="assets/coding-animation.mp4" width="350">
 
 </td>
 
