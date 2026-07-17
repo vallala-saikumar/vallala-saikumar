@@ -58,15 +58,15 @@ Speciality  :
 - Coverage Driven Verification
 - Design Verification Interview Preparation
 
-</td>
+# </td>
 
-<td>
+# <td>
 
-<img src="assets/coding-animation.jpg" width="350">
+# <img src="assets/coding-animation.jpg" width="350">
 
-</td>
+# </td>
 
-</tr>
+# </tr>
 
 </table>
 
