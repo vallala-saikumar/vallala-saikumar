@@ -62,7 +62,7 @@ Speciality  :
 
 <td>
 
-<img src="assets/coding-animation.mp4" width="350">
+<img src="assets/coding-animation.mp4" width="150">
 
 </td>
 
