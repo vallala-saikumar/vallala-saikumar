@@ -26,7 +26,7 @@
 
 <tr>
 
-<td width="55%">
+# <td width="55%">
 
 ```yaml
 Name        : Vallala Saikumar
@@ -60,13 +60,13 @@ Speciality  :
 
 # </td>
 
-# <td>
+ <td>
 
 # <img src="assets/coding-animation.jpg" width="350">
 
-# </td>
+ </td>
 
-# </tr>
+ </tr>
 
 </table>
 
