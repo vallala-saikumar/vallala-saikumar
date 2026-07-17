@@ -26,7 +26,7 @@
 
 <tr>
 
-# <td width="55%">
+ <td width="55%">
 
 ```yaml
 Name        : Vallala Saikumar
@@ -58,11 +58,11 @@ Speciality  :
 - Coverage Driven Verification
 - Design Verification Interview Preparation
 
-# </td>
+ </td>
 
  <td>
 
-# <img src="assets/coding-animation.jpg" width="350">
+ <img src="assets/coding-animation.gif" width="350">
 
  </td>
 
